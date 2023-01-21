@@ -1,6 +1,6 @@
 {
     "roots": [
-      "asertodemo"
+      "asertodemo", "roles"
     ],
     "metadata": {
       "required_builtins": {
